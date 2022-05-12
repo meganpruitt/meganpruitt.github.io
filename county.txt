@@ -1,0 +1,8 @@
+county_name	county_pop	med_income	inequality	location
+COLLIN	1,109,462	100,541	243.7	North
+DALLAS	2,586,050	61,870	373.4	Central
+DENTON	941,647	90,354	281	North
+ELLISA	202,678	79,834	255.9	South
+HUNT	103,394	57,467	295.8	East
+KAUFMAN	157,768	72,179	243.2	Southeast
+ROCKWALL	116,381	105,956	233.6	Northeast
