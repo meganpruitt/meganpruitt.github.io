@@ -4,4 +4,4 @@ title: Final Project
 permalink: /finalproject/
 ---
 
-<iframe width="1200" height="800" src="https://meganpruitt.shinyapps.io/dallashs/" frameborder="0" allowfullscreen></iframe>
+<iframe width="800" height="800" src="https://meganpruitt.shinyapps.io/dallashs/" frameborder="0" allowfullscreen></iframe>
